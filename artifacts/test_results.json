@@ -1,0 +1,1205 @@
+{
+    "metrics": {
+        "level_accuracy": {
+            "Group": 0.9862037037037037,
+            "Superclass": 0.9763271604938272,
+            "Class": 0.9706481481481481,
+            "Subclass": 0.9621913580246914,
+            "Part": 0.9610802469135803
+        },
+        "path_similarity": 0.9667716049382744,
+        "level_metrics": {
+            "Group": {
+                "precision": 0.9836962242127361,
+                "recall": 0.9831008334067434,
+                "f1": 0.9833984032312678,
+                "count": 3
+            },
+            "Superclass": {
+                "precision": 0.8716805006147575,
+                "recall": 0.867704657016383,
+                "f1": 0.8696704688356832,
+                "count": 9
+            },
+            "Class": {
+                "precision": 0.7964634515296469,
+                "recall": 0.7916138034525213,
+                "f1": 0.7939924095529632,
+                "count": 27
+            },
+            "Subclass": {
+                "precision": 0.682847127921034,
+                "recall": 0.6747838876652199,
+                "f1": 0.678643174771488,
+                "count": 77
+            },
+            "Part": {
+                "precision": 0.683581734249092,
+                "recall": 0.674006729604159,
+                "f1": 0.6786011839972443,
+                "count": 77
+            }
+        },
+        "node_performance": {
+            "Basic Structural Elements": {
+                "precision": 0.9878949118722979,
+                "recall": 0.9876978321585317,
+                "f1": 0.9877963621853489,
+                "level": "Group"
+            },
+            "Decorative & Specialty": {
+                "precision": 0.9748883928571429,
+                "recall": 0.9738015607580826,
+                "f1": 0.974344673731177,
+                "level": "Group"
+            },
+            "Functional Components": {
+                "precision": 0.9883053679087673,
+                "recall": 0.9878031073036155,
+                "f1": 0.9880541737772776,
+                "level": "Group"
+            },
+            "Bricks": {
+                "precision": 0.9886405959031658,
+                "recall": 0.9853377876763177,
+                "f1": 0.9869864287042202,
+                "level": "Superclass"
+            },
+            "Clips & Fasteners": {
+                "precision": 0.9859208523592086,
+                "recall": 0.9799546142208775,
+                "f1": 0.9829286798179059,
+                "level": "Superclass"
+            },
+            "Curved Parts": {
+                "precision": 0.9634796881411571,
+                "recall": 0.9694467382328654,
+                "f1": 0.9664540028812514,
+                "level": "Superclass"
+            },
+            "Hinges & Axles": {
+                "precision": 0.9913389513108615,
+                "recall": 0.9848837209302326,
+                "f1": 0.988100793280448,
+                "level": "Superclass"
+            },
+            "Minifigure Accessories": {
+                "precision": 0.9991266375545852,
+                "recall": 0.9811320754716981,
+                "f1": 0.9900475984422328,
+                "level": "Superclass"
+            },
+            "Nature Elements": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Superclass"
+            },
+            "Plates": {
+                "precision": 0.9630519120635507,
+                "recall": 0.9709443099273608,
+                "f1": 0.966982007048785,
+                "level": "Superclass"
+            },
+            "Technic Parts": {
+                "precision": 0.9789875835721108,
+                "recall": 0.9794553272814143,
+                "f1": 0.979221399570098,
+                "level": "Superclass"
+            },
+            "Tiles": {
+                "precision": 0.9745782846281777,
+                "recall": 0.9581873394066807,
+                "f1": 0.9663133097762073,
+                "level": "Superclass"
+            },
+            "Animal Parts": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Class"
+            },
+            "Arches": {
+                "precision": 0.9405940594059405,
+                "recall": 0.967741935483871,
+                "f1": 0.9539748953974895,
+                "level": "Class"
+            },
+            "Axle Accessories": {
+                "precision": 1.0,
+                "recall": 0.98125,
+                "f1": 0.9905362776025236,
+                "level": "Class"
+            },
+            "Axles": {
+                "precision": 0.9936305732484076,
+                "recall": 0.9912629070691025,
+                "f1": 0.9924453280318091,
+                "level": "Class"
+            },
+            "Cylinders": {
+                "precision": 0.9898477157360406,
+                "recall": 0.9831932773109243,
+                "f1": 0.9865092748735245,
+                "level": "Class"
+            },
+            "Decorative Tiles": {
+                "precision": 0.968715697036224,
+                "recall": 0.9587180879956545,
+                "f1": 0.9636909636909637,
+                "level": "Class"
+            },
+            "Flat Plates": {
+                "precision": 0.9689673622257892,
+                "recall": 0.979978354978355,
+                "f1": 0.974441754102771,
+                "level": "Class"
+            },
+            "Flat Tiles": {
+                "precision": 0.9595902105862265,
+                "recall": 0.9253567508232712,
+                "f1": 0.9421626152556581,
+                "level": "Class"
+            },
+            "Food & Props": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Class"
+            },
+            "Functional Tiles": {
+                "precision": 0.9769357495881383,
+                "recall": 0.959546925566343,
+                "f1": 0.9681632653061224,
+                "level": "Class"
+            },
+            "Gears": {
+                "precision": 0.9711751662971175,
+                "recall": 0.9782244556113903,
+                "f1": 0.9746870653685674,
+                "level": "Class"
+            },
+            "Hinges": {
+                "precision": 0.9891716296697347,
+                "recall": 0.9744,
+                "f1": 0.9817302525523912,
+                "level": "Class"
+            },
+            "Horizontal Fasteners": {
+                "precision": 0.9732193732193732,
+                "recall": 0.9606299212598425,
+                "f1": 0.9668836682705916,
+                "level": "Class"
+            },
+            "Large Bricks": {
+                "precision": 0.9698324022346368,
+                "recall": 0.9736399326977005,
+                "f1": 0.9717324377274,
+                "level": "Class"
+            },
+            "Panels": {
+                "precision": 0.9822857142857143,
+                "recall": 0.9794871794871794,
+                "f1": 0.9808844507845934,
+                "level": "Class"
+            },
+            "Plants": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Class"
+            },
+            "Rocks & Terrain": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Class"
+            },
+            "Rotation Parts": {
+                "precision": 0.9956672443674177,
+                "recall": 0.9854202401372213,
+                "f1": 0.9905172413793103,
+                "level": "Class"
+            },
+            "Specialty Bricks": {
+                "precision": 0.9702806824435883,
+                "recall": 0.9789006107717935,
+                "f1": 0.974571586511885,
+                "level": "Class"
+            },
+            "Specialty Connectors": {
+                "precision": 0.9915302089215132,
+                "recall": 0.988182329769274,
+                "f1": 0.9898534385569334,
+                "level": "Class"
+            },
+            "Specialty Plates": {
+                "precision": 0.960045019696117,
+                "recall": 0.9584269662921349,
+                "f1": 0.9592353106550464,
+                "level": "Class"
+            },
+            "Standard Bricks": {
+                "precision": 0.988013698630137,
+                "recall": 0.9595343680709535,
+                "f1": 0.9735658042744657,
+                "level": "Class"
+            },
+            "Textured Plates": {
+                "precision": 0.9555048488305762,
+                "recall": 0.9620907524411257,
+                "f1": 0.9587864911276474,
+                "level": "Class"
+            },
+            "Tools": {
+                "precision": 1.0,
+                "recall": 0.9811320754716981,
+                "f1": 0.9904761904761905,
+                "level": "Class"
+            },
+            "Vertical Fasteners": {
+                "precision": 0.9959136018680678,
+                "recall": 0.9844200807847663,
+                "f1": 0.9901334881021474,
+                "level": "Class"
+            },
+            "Weapons": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Class"
+            },
+            "Wedge Plates": {
+                "precision": 0.9635922330097088,
+                "recall": 0.9620355411954766,
+                "f1": 0.9628132578819726,
+                "level": "Class"
+            },
+            "10\u00b0 Wedge": {
+                "precision": 0.9780033840947546,
+                "recall": 0.9490968801313628,
+                "f1": 0.9633333333333333,
+                "level": "Subclass"
+            },
+            "16L Axle": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "1x1 Round Plate": {
+                "precision": 0.9044368600682594,
+                "recall": 0.8967851099830795,
+                "f1": 0.9005947323704333,
+                "level": "Subclass"
+            },
+            "1x10 Plate": {
+                "precision": 0.9856373429084381,
+                "recall": 0.9631578947368421,
+                "f1": 0.974267968056788,
+                "level": "Subclass"
+            },
+            "1x12 Plate": {
+                "precision": 0.9664536741214057,
+                "recall": 0.9773828756058158,
+                "f1": 0.9718875502008032,
+                "level": "Subclass"
+            },
+            "1x1x6 Round": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "1x2 Clip": {
+                "precision": 0.9858407079646018,
+                "recall": 0.9806338028169014,
+                "f1": 0.9832303618711385,
+                "level": "Subclass"
+            },
+            "1x2 Hinge": {
+                "precision": 0.9937791601866252,
+                "recall": 0.9785604900459418,
+                "f1": 0.9861111111111112,
+                "level": "Subclass"
+            },
+            "1x2x3 Cylinder": {
+                "precision": 0.9915254237288136,
+                "recall": 0.9831932773109243,
+                "f1": 0.9873417721518987,
+                "level": "Subclass"
+            },
+            "1x3 Arch": {
+                "precision": 0.9405940594059405,
+                "recall": 0.967741935483871,
+                "f1": 0.9539748953974895,
+                "level": "Subclass"
+            },
+            "1x6 Tile": {
+                "precision": 0.9778672032193159,
+                "recall": 0.8350515463917526,
+                "f1": 0.9008341056533827,
+                "level": "Subclass"
+            },
+            "1x8 Tile": {
+                "precision": 0.8509933774834437,
+                "recall": 0.8524046434494196,
+                "f1": 0.851698425849213,
+                "level": "Subclass"
+            },
+            "24-Tooth Gear": {
+                "precision": 0.971947194719472,
+                "recall": 0.988255033557047,
+                "f1": 0.9800332778702163,
+                "level": "Subclass"
+            },
+            "2x10 Brick": {
+                "precision": 0.9728353140916808,
+                "recall": 0.9597989949748744,
+                "f1": 0.9662731871838112,
+                "level": "Subclass"
+            },
+            "2x2 Arch": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "2x2 Brick": {
+                "precision": 0.9796264855687606,
+                "recall": 0.9600665557404326,
+                "f1": 0.9697478991596639,
+                "level": "Subclass"
+            },
+            "2x2 Corner Tile": {
+                "precision": 0.9809688581314879,
+                "recall": 0.8901098901098901,
+                "f1": 0.9333333333333333,
+                "level": "Subclass"
+            },
+            "2x2 Plate": {
+                "precision": 0.9518633540372671,
+                "recall": 0.973015873015873,
+                "f1": 0.9623233908948196,
+                "level": "Subclass"
+            },
+            "2x3 Brick": {
+                "precision": 0.9805309734513274,
+                "recall": 0.915702479338843,
+                "f1": 0.9470085470085471,
+                "level": "Subclass"
+            },
+            "2x3 Plate": {
+                "precision": 0.9746192893401016,
+                "recall": 0.9879931389365352,
+                "f1": 0.9812606473594548,
+                "level": "Subclass"
+            },
+            "2x4 Brick": {
+                "precision": 0.9730185497470489,
+                "recall": 0.9648829431438127,
+                "f1": 0.9689336691855583,
+                "level": "Subclass"
+            },
+            "2x4 Plate": {
+                "precision": 0.9841521394611727,
+                "recall": 0.9779527559055118,
+                "f1": 0.981042654028436,
+                "level": "Subclass"
+            },
+            "2x6 Brick": {
+                "precision": 0.9410774410774411,
+                "recall": 0.9621342512908778,
+                "f1": 0.9514893617021276,
+                "level": "Subclass"
+            },
+            "2x8 Brick": {
+                "precision": 0.988391376451078,
+                "recall": 0.9851239669421488,
+                "f1": 0.9867549668874173,
+                "level": "Subclass"
+            },
+            "3L Axle": {
+                "precision": 0.9920508744038156,
+                "recall": 0.9889064976228209,
+                "f1": 0.9904761904761905,
+                "level": "Subclass"
+            },
+            "45\u00b0 Wedge": {
+                "precision": 0.9517884914463453,
+                "recall": 0.972972972972973,
+                "f1": 0.9622641509433962,
+                "level": "Subclass"
+            },
+            "5x5 Panel": {
+                "precision": 0.9828473413379074,
+                "recall": 0.9646464646464646,
+                "f1": 0.973661852166525,
+                "level": "Subclass"
+            },
+            "8L Axle": {
+                "precision": 0.9968,
+                "recall": 0.9920382165605095,
+                "f1": 0.9944134078212291,
+                "level": "Subclass"
+            },
+            "Angled Clip": {
+                "precision": 0.9896551724137931,
+                "recall": 0.9828767123287672,
+                "f1": 0.9862542955326461,
+                "level": "Subclass"
+            },
+            "Animal Wedge": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Arch Brick": {
+                "precision": 0.9624413145539906,
+                "recall": 0.9792993630573248,
+                "f1": 0.9707971586424625,
+                "level": "Subclass"
+            },
+            "Axle Connector": {
+                "precision": 1.0,
+                "recall": 0.98125,
+                "f1": 0.9905362776025236,
+                "level": "Subclass"
+            },
+            "Axle with Pin": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Axle with Stop": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Bar Holder": {
+                "precision": 0.9966273187183811,
+                "recall": 0.9752475247524752,
+                "f1": 0.9858215179316095,
+                "level": "Subclass"
+            },
+            "Baseplate": {
+                "precision": 0.9982014388489209,
+                "recall": 0.9823008849557522,
+                "f1": 0.9901873327386262,
+                "level": "Subclass"
+            },
+            "Bevel Gear": {
+                "precision": 0.9618573797678275,
+                "recall": 0.9492635024549918,
+                "f1": 0.955518945634267,
+                "level": "Subclass"
+            },
+            "Blade": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Bracket with Holes": {
+                "precision": 0.9864864864864865,
+                "recall": 0.9782244556113903,
+                "f1": 0.9823380992430615,
+                "level": "Subclass"
+            },
+            "Clip with Handle": {
+                "precision": 0.9982300884955753,
+                "recall": 0.9947089947089947,
+                "f1": 0.9964664310954063,
+                "level": "Subclass"
+            },
+            "Corner Brick": {
+                "precision": 0.9782244556113903,
+                "recall": 0.9717138103161398,
+                "f1": 0.9749582637729549,
+                "level": "Subclass"
+            },
+            "Cupcake": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Curved Cylinder": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Curved Panel": {
+                "precision": 0.9397590361445783,
+                "recall": 0.9446366782006921,
+                "f1": 0.9421915444348576,
+                "level": "Subclass"
+            },
+            "Curved Slope": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Curved Tile": {
+                "precision": 0.9769357495881383,
+                "recall": 0.959546925566343,
+                "f1": 0.9681632653061224,
+                "level": "Subclass"
+            },
+            "Curved Wedge": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Double Clip": {
+                "precision": 0.9243697478991597,
+                "recall": 0.9090909090909091,
+                "f1": 0.9166666666666667,
+                "level": "Subclass"
+            },
+            "Drumstick": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Fern": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Grille Plate": {
+                "precision": 0.9930191972076788,
+                "recall": 0.9827288428324698,
+                "f1": 0.9878472222222222,
+                "level": "Subclass"
+            },
+            "Grooved Tile": {
+                "precision": 0.9984202211690363,
+                "recall": 0.9937106918238994,
+                "f1": 0.996059889676911,
+                "level": "Subclass"
+            },
+            "Hinge Brick": {
+                "precision": 0.9929824561403509,
+                "recall": 0.9263502454991817,
+                "f1": 0.9585097375105842,
+                "level": "Subclass"
+            },
+            "Hinge Plate": {
+                "precision": 0.9603960396039604,
+                "recall": 0.9525368248772504,
+                "f1": 0.9564502875924404,
+                "level": "Subclass"
+            },
+            "Horse Hitching": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Inverted Tile": {
+                "precision": 0.9950900163666121,
+                "recall": 0.9822294022617124,
+                "f1": 0.9886178861788617,
+                "level": "Subclass"
+            },
+            "Jumper Plate": {
+                "precision": 1.0,
+                "recall": 0.9762340036563071,
+                "f1": 0.9879740980573543,
+                "level": "Subclass"
+            },
+            "Paint Roller": {
+                "precision": 1.0,
+                "recall": 0.9854604200323102,
+                "f1": 0.9926769731489016,
+                "level": "Subclass"
+            },
+            "Pin Clip": {
+                "precision": 0.99830220713073,
+                "recall": 0.98,
+                "f1": 0.9890664423885618,
+                "level": "Subclass"
+            },
+            "Pin Clip Tool": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Plant Leaf": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Ramp Loop": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Robot Arm": {
+                "precision": 0.9816053511705686,
+                "recall": 0.9848993288590604,
+                "f1": 0.983249581239531,
+                "level": "Subclass"
+            },
+            "Rock": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Rotation Joint": {
+                "precision": 0.9965156794425087,
+                "recall": 0.9862068965517241,
+                "f1": 0.9913344887348353,
+                "level": "Subclass"
+            },
+            "Sloped Brick": {
+                "precision": 0.9688041594454073,
+                "recall": 0.9772727272727273,
+                "f1": 0.9730200174064404,
+                "level": "Subclass"
+            },
+            "Sloped Panel": {
+                "precision": 1.0,
+                "recall": 0.9965694682675815,
+                "f1": 0.9982817869415808,
+                "level": "Subclass"
+            },
+            "Sloped Plate": {
+                "precision": 0.8840579710144928,
+                "recall": 0.9195979899497487,
+                "f1": 0.9014778325123153,
+                "level": "Subclass"
+            },
+            "Terrain Piece": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Tile with Hole": {
+                "precision": 0.9185840707964602,
+                "recall": 0.8856655290102389,
+                "f1": 0.9018245004344049,
+                "level": "Subclass"
+            },
+            "Trap Door": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Treasure Chest Lid": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Turntable": {
+                "precision": 0.9982698961937716,
+                "recall": 0.984641638225256,
+                "f1": 0.9914089347079038,
+                "level": "Subclass"
+            },
+            "Vertical Handle": {
+                "precision": 0.9963963963963964,
+                "recall": 0.9787610619469026,
+                "f1": 0.9874999999999999,
+                "level": "Subclass"
+            },
+            "Weapon Handle": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "Worm Gear": {
+                "precision": 0.9863481228668942,
+                "recall": 0.9897260273972602,
+                "f1": 0.988034188034188,
+                "level": "Subclass"
+            },
+            "Zipline Handle": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Subclass"
+            },
+            "11203": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "15573": {
+                "precision": 1.0,
+                "recall": 0.9762340036563071,
+                "f1": 0.9879740980573543,
+                "level": "Part"
+            },
+            "15712": {
+                "precision": 0.9286926994906621,
+                "recall": 0.9041322314049587,
+                "f1": 0.916247906197655,
+                "level": "Part"
+            },
+            "18651": {
+                "precision": 1.0,
+                "recall": 0.9854604200323102,
+                "f1": 0.9926769731489016,
+                "level": "Part"
+            },
+            "1998": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "22388": {
+                "precision": 0.976897689768977,
+                "recall": 0.9579288025889967,
+                "f1": 0.9673202614379085,
+                "level": "Part"
+            },
+            "22389": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "22390": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "22885": {
+                "precision": 0.9915254237288136,
+                "recall": 0.9831932773109243,
+                "f1": 0.9873417721518987,
+                "level": "Part"
+            },
+            "2357": {
+                "precision": 0.9781512605042016,
+                "recall": 0.9683860232945092,
+                "f1": 0.9732441471571907,
+                "level": "Part"
+            },
+            "2429": {
+                "precision": 0.9635157545605307,
+                "recall": 0.9509001636661211,
+                "f1": 0.957166392092257,
+                "level": "Part"
+            },
+            "2430": {
+                "precision": 0.9929701230228472,
+                "recall": 0.9247135842880524,
+                "f1": 0.9576271186440679,
+                "level": "Part"
+            },
+            "2431": {
+                "precision": 0.986013986013986,
+                "recall": 0.8854003139717426,
+                "f1": 0.9330024813895782,
+                "level": "Part"
+            },
+            "2436": {
+                "precision": 0.9984202211690363,
+                "recall": 0.9937106918238994,
+                "f1": 0.996059889676911,
+                "level": "Part"
+            },
+            "2586": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "25893": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "27150": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "27167": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "3001": {
+                "precision": 0.9730185497470489,
+                "recall": 0.9648829431438127,
+                "f1": 0.9689336691855583,
+                "level": "Part"
+            },
+            "3002": {
+                "precision": 0.9804964539007093,
+                "recall": 0.9140495867768595,
+                "f1": 0.9461077844311377,
+                "level": "Part"
+            },
+            "3003": {
+                "precision": 0.979557069846678,
+                "recall": 0.956738768718802,
+                "f1": 0.968013468013468,
+                "level": "Part"
+            },
+            "3004": {
+                "precision": 0.9426644182124789,
+                "recall": 0.9621342512908778,
+                "f1": 0.9522998296422487,
+                "level": "Part"
+            },
+            "3005": {
+                "precision": 0.988391376451078,
+                "recall": 0.9851239669421488,
+                "f1": 0.9867549668874173,
+                "level": "Part"
+            },
+            "3008": {
+                "precision": 0.9744463373083475,
+                "recall": 0.9581239530988275,
+                "f1": 0.9662162162162162,
+                "level": "Part"
+            },
+            "3009": {
+                "precision": 0.96875,
+                "recall": 0.9755244755244755,
+                "f1": 0.9721254355400697,
+                "level": "Part"
+            },
+            "3020": {
+                "precision": 0.9872813990461049,
+                "recall": 0.9779527559055118,
+                "f1": 0.9825949367088608,
+                "level": "Part"
+            },
+            "3021": {
+                "precision": 0.976271186440678,
+                "recall": 0.9879931389365352,
+                "f1": 0.9820971867007673,
+                "level": "Part"
+            },
+            "30229": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "3023": {
+                "precision": 0.9533437013996889,
+                "recall": 0.973015873015873,
+                "f1": 0.9630793401413983,
+                "level": "Part"
+            },
+            "30230": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "3024": {
+                "precision": 0.9117647058823529,
+                "recall": 0.8917089678510999,
+                "f1": 0.9016253207869973,
+                "level": "Part"
+            },
+            "3068b": {
+                "precision": 0.9950900163666121,
+                "recall": 0.9822294022617124,
+                "f1": 0.9886178861788617,
+                "level": "Part"
+            },
+            "3224": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "32278": {
+                "precision": 0.95625,
+                "recall": 0.972972972972973,
+                "f1": 0.9645390070921986,
+                "level": "Part"
+            },
+            "32279": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "32523": {
+                "precision": 0.9965156794425087,
+                "recall": 0.9862068965517241,
+                "f1": 0.9913344887348353,
+                "level": "Part"
+            },
+            "32524": {
+                "precision": 0.9828178694158075,
+                "recall": 0.9629629629629629,
+                "f1": 0.9727891156462585,
+                "level": "Part"
+            },
+            "32525": {
+                "precision": 0.9397590361445783,
+                "recall": 0.9446366782006921,
+                "f1": 0.9421915444348576,
+                "level": "Part"
+            },
+            "32526": {
+                "precision": 1.0,
+                "recall": 0.9965694682675815,
+                "f1": 0.9982817869415808,
+                "level": "Part"
+            },
+            "3460": {
+                "precision": 0.8836833602584814,
+                "recall": 0.916247906197655,
+                "f1": 0.8996710526315791,
+                "level": "Part"
+            },
+            "35646": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "3565": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "3622": {
+                "precision": 0.9624413145539906,
+                "recall": 0.9792993630573248,
+                "f1": 0.9707971586424625,
+                "level": "Part"
+            },
+            "3623": {
+                "precision": 0.9421487603305785,
+                "recall": 0.967741935483871,
+                "f1": 0.9547738693467336,
+                "level": "Part"
+            },
+            "3665": {
+                "precision": 0.993006993006993,
+                "recall": 0.9810017271157168,
+                "f1": 0.9869678540399652,
+                "level": "Part"
+            },
+            "3673": {
+                "precision": 0.9982698961937716,
+                "recall": 0.984641638225256,
+                "f1": 0.9914089347079038,
+                "level": "Part"
+            },
+            "3705": {
+                "precision": 0.9920508744038156,
+                "recall": 0.9889064976228209,
+                "f1": 0.9904761904761905,
+                "level": "Part"
+            },
+            "3832": {
+                "precision": 0.9982014388489209,
+                "recall": 0.9823008849557522,
+                "f1": 0.9901873327386262,
+                "level": "Part"
+            },
+            "3937": {
+                "precision": 0.9937791601866252,
+                "recall": 0.9785604900459418,
+                "f1": 0.9861111111111112,
+                "level": "Part"
+            },
+            "4162": {
+                "precision": 0.8545150501672241,
+                "recall": 0.8474295190713101,
+                "f1": 0.8509575353871773,
+                "level": "Part"
+            },
+            "43888": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "4477": {
+                "precision": 0.9856373429084381,
+                "recall": 0.9631578947368421,
+                "f1": 0.974267968056788,
+                "level": "Part"
+            },
+            "48336": {
+                "precision": 1.0,
+                "recall": 0.98125,
+                "f1": 0.9905362776025236,
+                "level": "Part"
+            },
+            "48729": {
+                "precision": 0.9966216216216216,
+                "recall": 0.9735973597359736,
+                "f1": 0.984974958263773,
+                "level": "Part"
+            },
+            "50950": {
+                "precision": 0.9779661016949153,
+                "recall": 0.9474548440065681,
+                "f1": 0.9624687239366139,
+                "level": "Part"
+            },
+            "50951": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "53451": {
+                "precision": 0.9734660033167496,
+                "recall": 0.9848993288590604,
+                "f1": 0.9791492910758965,
+                "level": "Part"
+            },
+            "54200": {
+                "precision": 0.965,
+                "recall": 0.9476268412438625,
+                "f1": 0.9562345169281585,
+                "level": "Part"
+            },
+            "54201": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "60451": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "60470": {
+                "precision": 0.9982993197278912,
+                "recall": 0.9783333333333334,
+                "f1": 0.9882154882154882,
+                "level": "Part"
+            },
+            "60471": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "60474": {
+                "precision": 0.9982300884955753,
+                "recall": 0.9947089947089947,
+                "f1": 0.9964664310954063,
+                "level": "Part"
+            },
+            "60478": {
+                "precision": 0.9963963963963964,
+                "recall": 0.9787610619469026,
+                "f1": 0.9874999999999999,
+                "level": "Part"
+            },
+            "60479": {
+                "precision": 0.9664536741214057,
+                "recall": 0.9773828756058158,
+                "f1": 0.9718875502008032,
+                "level": "Part"
+            },
+            "60483": {
+                "precision": 0.9863481228668942,
+                "recall": 0.9897260273972602,
+                "f1": 0.988034188034188,
+                "level": "Part"
+            },
+            "60484": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "63864": {
+                "precision": 0.9234875444839857,
+                "recall": 0.8856655290102389,
+                "f1": 0.9041811846689894,
+                "level": "Part"
+            },
+            "63868": {
+                "precision": 0.9858407079646018,
+                "recall": 0.9806338028169014,
+                "f1": 0.9832303618711385,
+                "level": "Part"
+            },
+            "6536": {
+                "precision": 0.9968,
+                "recall": 0.9920382165605095,
+                "f1": 0.9944134078212291,
+                "level": "Part"
+            },
+            "6636": {
+                "precision": 0.9817444219066938,
+                "recall": 0.8316151202749141,
+                "f1": 0.9004651162790699,
+                "level": "Part"
+            },
+            "6854": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "77822": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "79743": {
+                "precision": 0,
+                "recall": 0,
+                "f1": 0,
+                "level": "Part"
+            },
+            "88072": {
+                "precision": 0.9930795847750865,
+                "recall": 0.9828767123287672,
+                "f1": 0.9879518072289157,
+                "level": "Part"
+            },
+            "99207": {
+                "precision": 0.9881154499151104,
+                "recall": 0.9748743718592965,
+                "f1": 0.9814502529510961,
+                "level": "Part"
+            },
+            "99780": {
+                "precision": 0.9816053511705686,
+                "recall": 0.9848993288590604,
+                "f1": 0.983249581239531,
+                "level": "Part"
+            }
+        }
+    },
+    "timestamp": "20250411-221147"
+}
